@@ -1,0 +1,2 @@
+# LOGICA
+Ejemplo de algoritmo 
